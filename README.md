@@ -17,22 +17,10 @@ Here are some ideas to get you started:
 
 # Summary
 
-<div>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=rhiroe&show_icons=true&theme=dark&count_private=true">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhiroe&theme=dark&hide=HTML,CSS&langs_count=3">
-</div>
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=rhiroe&show_icons=true&theme=dark&count_private=true">
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhiroe&theme=dark&hide=HTML,CSS&langs_count=3">
 
 # Contact
 
-<table>
-  <tr>
-    <td>Email</td>
-    <td><a href="mailto:ride.poke@gmail.com">ride.poke@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td>Twitter</td>
-    <td><a href="https://twitter.com/messages/compose?recipient_id=509745934">@buta_botti</a></td>
-  </tr>
-</table>
-
-
+[<img width="32px" src="public/images/gmail.svg">](mailto:ride.poke@gmail.com)
+[<img width="32px" src="public/images/twitter.svg">](https://twitter.com/messages/compose?recipient_id=509745934)
