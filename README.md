@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 # Summary
 
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=rhiroe&show_icons=true&theme=dark&count_private=true">
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhiroe&theme=dark&hide=HTML,CSS&langs_count=3">
+<div>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=rhiroe&show_icons=true&theme=dark&count_private=true">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhiroe&theme=dark&hide=HTML,CSS&langs_count=3">
+</div>
 
 # Contact
 
