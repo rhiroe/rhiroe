@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td>Twitter</td>
-    <td><a href="https://twitter.com/intent/tweet?screen_name=buta_botti">@buta_botti</a></td>
+    <td><a href="https://twitter.com/messages/compose?recipient_id=509745934">@buta_botti</a></td>
   </tr>
 </table>
 
