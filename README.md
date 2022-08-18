@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 -->
 
 # Summary
-
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhiroe&theme=dark" />
+</div>
 <div>
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=rhiroe&show_icons=true&theme=dark&count_private=true">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhiroe&theme=dark&hide=HTML,CSS&langs_count=3">
