@@ -22,14 +22,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhiroe&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhiroe&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-contribution-stats.vercel.app/api/?username=rhiroe" alt="Contribution Stats" />
 </p>
 
