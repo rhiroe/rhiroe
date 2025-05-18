@@ -40,17 +40,3 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-
-## 📊 GitHub Stats
-
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhiroe&theme=github_dark"/>
-</div>
-
-<div>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=rhiroe&show_icons=true&theme=github_dark&count_private=true" />
-</div>
-
-<div>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhiroe&theme=github_dark&hide=HTML,CSS&langs_count=3" />
-</div>
