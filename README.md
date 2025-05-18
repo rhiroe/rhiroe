@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=rhiroe&fontSize=70&fontAlignY=35&animation=twinkling&avatarDisplay=true&avatarSource=https://raw.githubusercontent.com/rhiroe/rhiroe/main/public/images/me.png&avatarSize=90)
+<a href="https://rhiroe.github.io/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=rhiroe&fontSize=70&fontAlignY=35&animation=twinkling&avatarDisplay=true&avatarSource=https://raw.githubusercontent.com/rhiroe/rhiroe/main/public/images/me.png&avatarSize=90" alt="Header" />
+</a>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=rhiroe">
