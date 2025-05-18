@@ -6,7 +6,7 @@
   <a href="https://komarev.com/ghpvc/?username=rhiroe">
     <img src="https://komarev.com/ghpvc/?username=rhiroe&style=flat-square&color=blue" alt="Profile views" />
   </a>
-  <a href="https://twitter.com/messages/compose?recipient_id=509745934">
+  <a href="https://x.com/buta_botti">
     <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" />
   </a>
   <a href="mailto:ride.poke@gmail.com">
