@@ -1,32 +1,54 @@
-<img src="https://komarev.com/ghpvc/?username=rhiroe">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=rhiroe&fontSize=70&fontAlignY=35&animation=twinkling&avatarDisplay=true&avatarSource=https://raw.githubusercontent.com/rhiroe/rhiroe/main/public/images/me.png&avatarSize=90)
 
-### Hi there 👋
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=rhiroe">
+    <img src="https://komarev.com/ghpvc/?username=rhiroe&style=flat-square&color=blue" alt="Profile views" />
+  </a>
+  <a href="https://twitter.com/messages/compose?recipient_id=509745934">
+    <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:ride.poke@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<!--
-**rhiroe/rhiroe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Ruby on Railsエンジニア / Software Engineer</b><br>
+  ✨🐞 Creating bugs since 2016 🐛✨
+</p>
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+</p>
 
-# Summary
+<p align="center">
+  <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## 📊 GitHub Stats
+
 <div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhiroe&theme=github_dark"/>
 </div>
+
 <div>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=rhiroe&show_icons=true&theme=github_dark&count_private=true">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhiroe&theme=github_dark&hide=HTML,CSS&langs_count=3">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=rhiroe&show_icons=true&theme=github_dark&count_private=true" />
 </div>
 
-# Contact
-
-[<img width="32px" src="public/images/gmail.svg">](mailto:ride.poke@gmail.com)
-[<img width="32px" src="public/images/twitter.svg">](https://twitter.com/messages/compose?recipient_id=509745934)
+<div>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhiroe&theme=github_dark&hide=HTML,CSS&langs_count=3" />
+</div>
