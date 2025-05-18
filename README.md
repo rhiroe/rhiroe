@@ -29,8 +29,6 @@
   <img src="https://github-contribution-stats.vercel.app/api/?username=rhiroe" alt="Contribution Stats" />
 </p>
 
-## 🏆 Organizations Contributions
-
 ## 🛠️ Tech Stack
 
 <p align="center">
