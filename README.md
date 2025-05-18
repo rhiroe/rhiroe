@@ -22,8 +22,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rhiroe&theme=darkhub&row=1" alt="Trophies" />
+</p>
+
+<p align="center">
   <img src="https://github-contribution-stats.vercel.app/api/?username=rhiroe" alt="Contribution Stats" />
 </p>
+
+## 🏆 Organizations Contributions
 
 ## 🛠️ Tech Stack
 
