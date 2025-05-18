@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <b>Ruby on Railsエンジニア / Software Engineer</b><br>
+  <b>Ruby on Rails Engineer / Software Engineer</b><br>
   ✨🐞 Creating bugs since 2016 🐛✨
 </p>
 
